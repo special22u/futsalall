@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>FutsalAll — The Home of Futsal</title>
+  <link>https://futsalall.com</link>
+  <description>The home of futsal: tournament news, FIFA futsal rankings and honest gear guides from FutsalAll. More at futsalall.com</description>
+  <language>en</language>
+  <itunes:author>FutsalAll</itunes:author>
+  <itunes:owner>
+    <itunes:name>FutsalAll</itunes:name>
+    <itunes:email>special22u@gmail.com</itunes:email>
+  </itunes:owner>
+  <managingEditor>special22u@gmail.com (FutsalAll)</managingEditor>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Sports"/>
+  <atom:link href="https://special22u.github.io/futsalall/podcast.xml" rel="self" type="application/rss+xml"/>
+  <itunes:image href="https://muse.ai/podcasts/media/1398167520039391/194878ed-21d9-4a4b-9cd4-94eea3064ba1/cover.png"/>
+  <image>
+    <url>https://muse.ai/podcasts/media/1398167520039391/194878ed-21d9-4a4b-9cd4-94eea3064ba1/cover.png</url>
+    <title>FutsalAll — The Home of Futsal</title>
+    <link>https://futsalall.com</link>
+  </image>
+  <item>
+    <title>What Is Futsal? A Beginner&apos;s Guide</title>
+    <description>Muse and Alex introduce futsal: the court, the low-bounce ball, the key rules, the positions, and why Brazil top the FIFA futsal world rankings. More at futsalall.com</description>
+    <enclosure url="https://muse.ai/podcasts/media/1398167520039391/194878ed-21d9-4a4b-9cd4-94eea3064ba1/ep-5c70b613-0932-495b-a9fc-9ec77d9b95ab.mp3" length="1320229" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-5c70b613-0932-495b-a9fc-9ec77d9b95ab</guid>
+    <pubDate>Thu, 12 Nov 2026 13:08:55 +0000</pubDate>
+    <itunes:duration>165</itunes:duration>
+  </item>
+</channel>
+</rss>
